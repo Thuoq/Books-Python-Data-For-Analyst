@@ -1,1 +1,5 @@
 data-for-analyst
+**/*.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+/**.ipynb_checkpoints
+*/.ipynb_checkpoints/*.ipynb
